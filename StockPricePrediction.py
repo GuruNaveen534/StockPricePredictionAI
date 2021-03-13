@@ -52,4 +52,3 @@ print("nowData", todayData,'won', ' | ', 'futureData', futureData, 'won', ' | ',
 model.plot(forecast) 
 model.plot_components(forecast)
 mpl.show()
-
